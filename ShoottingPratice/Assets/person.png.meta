@@ -1,0 +1,5503 @@
+fileFormatVersion: 2
+guid: 01be631e99c9fab4f8d6d64b7e2431e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6861894420282137670
+    second: person_0
+  - first:
+      213: -7592463368050987717
+    second: person_1
+  - first:
+      213: -1918943386427310983
+    second: person_2
+  - first:
+      213: 6557288073542464520
+    second: person_3
+  - first:
+      213: -8863321754108521893
+    second: person_4
+  - first:
+      213: 5871441334544041340
+    second: person_5
+  - first:
+      213: -1723351912873679875
+    second: person_6
+  - first:
+      213: 286518434546666578
+    second: person_7
+  - first:
+      213: -165335670386187087
+    second: person_8
+  - first:
+      213: 6962579781589173454
+    second: person_9
+  - first:
+      213: -2979782634355514491
+    second: person_10
+  - first:
+      213: 7819878817054457122
+    second: person_11
+  - first:
+      213: -673730042160572644
+    second: person_12
+  - first:
+      213: -7248785658279930955
+    second: person_13
+  - first:
+      213: 1337698111788429637
+    second: person_14
+  - first:
+      213: -4236523033704946086
+    second: person_15
+  - first:
+      213: -3331981649216993435
+    second: person_16
+  - first:
+      213: 5249256209890806234
+    second: person_17
+  - first:
+      213: -4633781123619581613
+    second: person_18
+  - first:
+      213: -7812601732612612396
+    second: person_19
+  - first:
+      213: -3016416768018190000
+    second: person_20
+  - first:
+      213: -1215558999585740207
+    second: person_21
+  - first:
+      213: 4002587689509858012
+    second: person_22
+  - first:
+      213: -2338370450692191238
+    second: person_23
+  - first:
+      213: 7581237749316257717
+    second: person_24
+  - first:
+      213: 2451359998739933500
+    second: person_25
+  - first:
+      213: -5876958948384708235
+    second: person_26
+  - first:
+      213: -5250621442065188113
+    second: person_27
+  - first:
+      213: 1472894617208971096
+    second: person_28
+  - first:
+      213: -5658689075536217638
+    second: person_29
+  - first:
+      213: 8046711971997570425
+    second: person_30
+  - first:
+      213: -2966919780874583608
+    second: person_31
+  - first:
+      213: -8423240783800227255
+    second: person_32
+  - first:
+      213: 192764345077458033
+    second: person_33
+  - first:
+      213: 1257504199939644717
+    second: person_34
+  - first:
+      213: -3819599628298098580
+    second: person_35
+  - first:
+      213: -1473833584222803690
+    second: person_36
+  - first:
+      213: -5193520977077360190
+    second: person_37
+  - first:
+      213: 7252588268115442153
+    second: person_38
+  - first:
+      213: -6911647590020174610
+    second: person_39
+  - first:
+      213: 1900086587308176125
+    second: person_40
+  - first:
+      213: -1210282708617833055
+    second: person_41
+  - first:
+      213: 5854293319715527949
+    second: person_42
+  - first:
+      213: 8937583836998084907
+    second: person_43
+  - first:
+      213: 7360535624850142406
+    second: person_44
+  - first:
+      213: -6827772192189178853
+    second: person_45
+  - first:
+      213: -4780052111419894853
+    second: person_46
+  - first:
+      213: -2038282731833962603
+    second: person_47
+  - first:
+      213: -2801967038125507248
+    second: person_48
+  - first:
+      213: 2902041938359060710
+    second: person_49
+  - first:
+      213: -8527031453143289951
+    second: person_50
+  - first:
+      213: 408904214480404013
+    second: person_51
+  - first:
+      213: -7852388276279909599
+    second: person_52
+  - first:
+      213: 7446938296563106947
+    second: person_53
+  - first:
+      213: -1190948250088694017
+    second: person_54
+  - first:
+      213: 797884482593900675
+    second: person_55
+  - first:
+      213: -4105029157018446656
+    second: person_56
+  - first:
+      213: 3178295142518982538
+    second: person_57
+  - first:
+      213: -436348432842623754
+    second: person_58
+  - first:
+      213: 416370864596636989
+    second: person_59
+  - first:
+      213: -490873881881178260
+    second: person_60
+  - first:
+      213: 7170622814719962431
+    second: person_61
+  - first:
+      213: -3287605408660757947
+    second: person_62
+  - first:
+      213: 3461620777849682146
+    second: person_63
+  - first:
+      213: -2685970331159086424
+    second: person_64
+  - first:
+      213: -8525363047918893680
+    second: person_65
+  - first:
+      213: 6341348317065655798
+    second: person_66
+  - first:
+      213: -1306828354607382610
+    second: person_67
+  - first:
+      213: 5752641757521946798
+    second: person_68
+  - first:
+      213: 4866239833162961085
+    second: person_69
+  - first:
+      213: 5909043319967914139
+    second: person_70
+  - first:
+      213: -1392369606446221368
+    second: person_71
+  - first:
+      213: 8028245863691407379
+    second: person_72
+  - first:
+      213: 1530977740919523582
+    second: person_73
+  - first:
+      213: -579821745342131117
+    second: person_74
+  - first:
+      213: -2007828055409068022
+    second: person_75
+  - first:
+      213: 4927281191657442217
+    second: person_76
+  - first:
+      213: -4437066591230124213
+    second: person_77
+  - first:
+      213: 565748408683707043
+    second: person_78
+  - first:
+      213: 7994600235549520414
+    second: person_79
+  - first:
+      213: 5522629611241437476
+    second: person_80
+  - first:
+      213: 3972046100164280083
+    second: person_81
+  - first:
+      213: 1058667072469573915
+    second: person_82
+  - first:
+      213: 6256353050228641546
+    second: person_83
+  - first:
+      213: -8765554383206546781
+    second: person_84
+  - first:
+      213: 2995140312909051652
+    second: person_85
+  - first:
+      213: 3158823695545528342
+    second: person_86
+  - first:
+      213: -4716667430074892186
+    second: person_87
+  - first:
+      213: 4723374260332584079
+    second: person_88
+  - first:
+      213: -6526661414221229996
+    second: person_89
+  - first:
+      213: 3988743362729477752
+    second: person_90
+  - first:
+      213: 5881282881789547920
+    second: person_91
+  - first:
+      213: 5530006480735109279
+    second: person_92
+  - first:
+      213: 2508477140619346676
+    second: person_93
+  - first:
+      213: 771961116416426280
+    second: person_94
+  - first:
+      213: 7904703913869788256
+    second: person_95
+  - first:
+      213: 8017978629988260245
+    second: person_96
+  - first:
+      213: -8604231902426948379
+    second: person_97
+  - first:
+      213: 4756388545396160925
+    second: person_98
+  - first:
+      213: -6632545117208379910
+    second: person_99
+  - first:
+      213: 3418199201457924261
+    second: person_100
+  - first:
+      213: 4501899342520340021
+    second: person_101
+  - first:
+      213: -8942456378522035162
+    second: person_102
+  - first:
+      213: -4813587157669941687
+    second: person_103
+  - first:
+      213: -7653670646691783526
+    second: person_104
+  - first:
+      213: 2633878960813875256
+    second: person_105
+  - first:
+      213: 4775031977841913718
+    second: person_106
+  - first:
+      213: 6478122136798310106
+    second: person_107
+  - first:
+      213: -1083889882651699866
+    second: person_108
+  - first:
+      213: 9002676298113423707
+    second: person_109
+  - first:
+      213: 6754675923539677244
+    second: person_110
+  - first:
+      213: -2985389905655012690
+    second: person_111
+  - first:
+      213: 2020984888573234720
+    second: person_112
+  - first:
+      213: 225425699168747250
+    second: person_113
+  - first:
+      213: 6611058246053886644
+    second: person_114
+  - first:
+      213: 7516621096468110795
+    second: person_115
+  - first:
+      213: -2217123627205688991
+    second: person_116
+  - first:
+      213: 4831425795728823759
+    second: person_117
+  - first:
+      213: -5094501768307130538
+    second: person_118
+  - first:
+      213: 7347863713327973521
+    second: person_119
+  - first:
+      213: 5601379186582054869
+    second: person_120
+  - first:
+      213: -522271531681594760
+    second: person_121
+  - first:
+      213: 9184397412001043855
+    second: person_122
+  - first:
+      213: 2237793702088621764
+    second: person_123
+  - first:
+      213: -7544590788789129163
+    second: person_124
+  - first:
+      213: 1000200280169394209
+    second: person_125
+  - first:
+      213: -6081614464266015954
+    second: person_126
+  - first:
+      213: 1380809865854778181
+    second: person_127
+  - first:
+      213: 5648598851223662871
+    second: person_128
+  - first:
+      213: -3021073485207864823
+    second: person_129
+  - first:
+      213: 1014299754285014313
+    second: person_130
+  - first:
+      213: 4327992701470082163
+    second: person_131
+  - first:
+      213: 1413624755779835128
+    second: person_132
+  - first:
+      213: -8252925761730599452
+    second: person_133
+  - first:
+      213: 8972212057845475165
+    second: person_134
+  - first:
+      213: 5759973145006032687
+    second: person_135
+  - first:
+      213: 7247177667402776430
+    second: person_136
+  - first:
+      213: 5262398520956806840
+    second: person_137
+  - first:
+      213: -1193000689757833400
+    second: person_138
+  - first:
+      213: 7096083416412980222
+    second: person_139
+  - first:
+      213: -3893565481997904236
+    second: person_140
+  - first:
+      213: 1914183885333698900
+    second: person_141
+  - first:
+      213: -2704762191487462374
+    second: person_142
+  - first:
+      213: 74734395543460568
+    second: person_143
+  - first:
+      213: 1022844026224172542
+    second: person_144
+  - first:
+      213: -1899105180867592680
+    second: person_145
+  - first:
+      213: -1305918817382938495
+    second: person_146
+  - first:
+      213: -5780348489339395885
+    second: person_147
+  - first:
+      213: -3050213564434084924
+    second: person_148
+  - first:
+      213: -455005847666894806
+    second: person_149
+  - first:
+      213: -819048800808467924
+    second: person_150
+  - first:
+      213: -3043385687800935913
+    second: person_151
+  - first:
+      213: -8349517600443666515
+    second: person_152
+  - first:
+      213: 8934227022586956399
+    second: person_153
+  - first:
+      213: -7040945390271887925
+    second: person_154
+  - first:
+      213: -5067120351809338628
+    second: person_155
+  - first:
+      213: 8078352986151872436
+    second: person_156
+  - first:
+      213: 6029128667292596195
+    second: person_157
+  - first:
+      213: 2766459902439004836
+    second: person_158
+  - first:
+      213: 8904205321147609377
+    second: person_159
+  - first:
+      213: 5292112322706709683
+    second: person_160
+  - first:
+      213: 2108024521621934392
+    second: person_161
+  - first:
+      213: 3538404362513646917
+    second: person_162
+  - first:
+      213: -5590776289213901310
+    second: person_163
+  - first:
+      213: 2964913013337875682
+    second: person_164
+  - first:
+      213: 3116014800982110965
+    second: person_165
+  - first:
+      213: 5175661059014185167
+    second: person_166
+  - first:
+      213: 6382419838982082860
+    second: person_167
+  - first:
+      213: -4971482113888396563
+    second: person_168
+  - first:
+      213: 4130375625031862704
+    second: person_169
+  - first:
+      213: -8489903146712698221
+    second: person_170
+  - first:
+      213: -2214426235148443475
+    second: person_171
+  - first:
+      213: 1314653919816093475
+    second: person_172
+  - first:
+      213: 7035551725264515328
+    second: person_173
+  - first:
+      213: -7673705030660672359
+    second: person_174
+  - first:
+      213: -5004747647825066580
+    second: person_175
+  - first:
+      213: 3439489108143798546
+    second: person_176
+  - first:
+      213: -869062370684882555
+    second: person_177
+  - first:
+      213: -872135987493836090
+    second: person_178
+  - first:
+      213: 1384800871853350975
+    second: person_179
+  - first:
+      213: -6014376450038385272
+    second: person_180
+  - first:
+      213: -3595025291361286918
+    second: person_181
+  - first:
+      213: -4310394123522244452
+    second: person_182
+  - first:
+      213: 6527935546776076505
+    second: person_183
+  - first:
+      213: 3518170581685247176
+    second: person_184
+  - first:
+      213: -6483750964351199995
+    second: person_185
+  - first:
+      213: -2868603582935685781
+    second: person_186
+  - first:
+      213: 8248794867493603090
+    second: person_187
+  - first:
+      213: 3846850809313582667
+    second: person_188
+  - first:
+      213: 791053579538153704
+    second: person_189
+  - first:
+      213: -4326634315502224202
+    second: person_190
+  - first:
+      213: 4319713248399247805
+    second: person_191
+  - first:
+      213: -7224408793301641598
+    second: person_192
+  - first:
+      213: 1547111255679079875
+    second: person_193
+  - first:
+      213: 1979138294901232934
+    second: person_194
+  - first:
+      213: -5623036043162794697
+    second: person_195
+  - first:
+      213: -6413154480959357899
+    second: person_196
+  - first:
+      213: -3863413273515863026
+    second: person_197
+  - first:
+      213: 2423382128456892041
+    second: person_198
+  - first:
+      213: -4301212042676523386
+    second: person_199
+  - first:
+      213: 5526166687621575173
+    second: person_200
+  - first:
+      213: -8106486247204552511
+    second: person_201
+  - first:
+      213: -2555174324233604273
+    second: person_202
+  - first:
+      213: -4696899338091146683
+    second: person_203
+  - first:
+      213: -4839724994588141871
+    second: person_204
+  - first:
+      213: -1779768156113293325
+    second: person_205
+  - first:
+      213: 1750193543981603961
+    second: person_206
+  - first:
+      213: 2549552832565815253
+    second: person_207
+  - first:
+      213: -1125828526963934502
+    second: person_208
+  - first:
+      213: -5263164666236142305
+    second: person_209
+  - first:
+      213: -6083981198118891114
+    second: person_210
+  - first:
+      213: -7380724235174939256
+    second: person_211
+  - first:
+      213: -6562441994970249751
+    second: person_212
+  - first:
+      213: 7452175380394103607
+    second: person_213
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: person_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1926
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd62f8e985a3f50800000000000000
+      internalID: 6861894420282137670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1926
+        width: 99
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3da7291bc622a690800000000000000
+      internalID: -7592463368050987717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_2
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1923
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c3ae3382b8e55e0800000000000000
+      internalID: -1918943386427310983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_3
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1925
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8047769c2ca200b50800000000000000
+      internalID: 6557288073542464520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_4
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2038
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b529e5413d72ff480800000000000000
+      internalID: -8863321754108521893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_5
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1922
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c750b0919cc8b7150800000000000000
+      internalID: 5871441334544041340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_6
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1921
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3ac22e09c6518e0800000000000000
+      internalID: -1723351912873679875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_7
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2038
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c41c88ffae9f300800000000000000
+      internalID: 286518434546666578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_8
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1922
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b42ee1751c94bdf0800000000000000
+      internalID: -165335670386187087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_9
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1925
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec480f90c6d00a060800000000000000
+      internalID: 6962579781589173454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1926
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583ac5b4b7fa5a6d0800000000000000
+      internalID: -2979782634355514491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1925
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22df1254a5ac58c60800000000000000
+      internalID: 7819878817054457122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1925
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c179282a81e66a6f0800000000000000
+      internalID: -673730042160572644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1926
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3574979d3276b90800000000000000
+      internalID: -7248785658279930955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1926
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413cd16855709210800000000000000
+      internalID: 1337698111788429637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1926
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56a1453fb8d435c0800000000000000
+      internalID: -4236523033704946086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1925
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5670d48f75c62c1d0800000000000000
+      internalID: -3331981649216993435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_17
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1925
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad90e8d06ba19d840800000000000000
+      internalID: 5249256209890806234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1797
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3519ebf6e9081bfb0800000000000000
+      internalID: -4633781123619581613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1798
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de160cfd10149390800000000000000
+      internalID: -7812601732612612396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1797
+        width: 101
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0517ebf5ee88326d0800000000000000
+      internalID: -3016416768018190000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1798
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aa92ab787712fe0800000000000000
+      internalID: -1215558999585740207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1797
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda26970c4c0c8730800000000000000
+      internalID: 4002587689509858012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_23
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1796
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbc83dd6707c8fd0800000000000000
+      internalID: -2338370450692191238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_24
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1796
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b707cdd097f53960800000000000000
+      internalID: 7581237749316257717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_25
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1796
+        width: 99
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39ee755eeaf40220800000000000000
+      internalID: 2451359998739933500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_26
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1796
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579e9f159f8d07ea0800000000000000
+      internalID: -5876958948384708235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_27
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1797
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feab7af0e9b0227b0800000000000000
+      internalID: -5250621442065188113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_28
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1797
+        width: 117
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f5352c9d5c07410800000000000000
+      internalID: 1472894617208971096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_29
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1797
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9b74e444c4871b0800000000000000
+      internalID: -5658689075536217638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_30
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1259
+        width: 355
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9755cccb7e9abaf60800000000000000
+      internalID: 8046711971997570425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1669
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c104efbd2263d6d0800000000000000
+      internalID: -2966919780874583608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1784
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a2108a223aa1b80800000000000000
+      internalID: -8423240783800227255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1668
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174e3b98626dca200800000000000000
+      internalID: 192764345077458033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1679
+        width: 109
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dd6f4486d837110800000000000000
+      internalID: 1257504199939644717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1680
+        width: 119
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68e31b006e0efac0800000000000000
+      internalID: -3819599628298098580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_36
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1668
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619eb52f924eb8be0800000000000000
+      internalID: -1473833584222803690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_37
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1670
+        width: 109
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9a3c31038ece7b0800000000000000
+      internalID: -5193520977077360190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_38
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1669
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9bf2f9a9e56a460800000000000000
+      internalID: 7252588268115442153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_39
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1668
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeca928e225e410a0800000000000000
+      internalID: -6911647590020174610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_40
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1666
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2fcfe1fa67e5a10800000000000000
+      internalID: 1900086587308176125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_41
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1668
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a55903f946343fe0800000000000000
+      internalID: -1210282708617833055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_42
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1769
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d1694c1c0ae3150800000000000000
+      internalID: 5854293319715527949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_43
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1667
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b292b8a752da80c70800000000000000
+      internalID: 8937583836998084907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_44
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1670
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4fccb2720e52660800000000000000
+      internalID: 7360535624850142406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1542
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c1645cd51ee31a0800000000000000
+      internalID: -6827772192189178853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1542
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb316f23ee7d9adb0800000000000000
+      internalID: -4780052111419894853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1542
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f493997a096b3e0800000000000000
+      internalID: -2038282731833962603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_48
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1542
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dfc2403d96d19d0800000000000000
+      internalID: -2801967038125507248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_49
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1542
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e88d2b64cf164820800000000000000
+      internalID: 2902041938359060710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_50
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1542
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afafce4216e9a980800000000000000
+      internalID: -8527031453143289951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_51
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1542
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eb3437738bca500800000000000000
+      internalID: 408904214480404013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_52
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1542
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e4e96776b60390800000000000000
+      internalID: -7852388276279909599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_53
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1538
+        width: 114
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38485e6dce6d85760800000000000000
+      internalID: 7446938296563106947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_54
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1538
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe179f50e6e87fe0800000000000000
+      internalID: -1190948250088694017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_55
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1539
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3884ec4a5b7a21b00800000000000000
+      internalID: 797884482593900675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_56
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1538
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c45b472bb10807c0800000000000000
+      internalID: -4105029157018446656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1414
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a878131c7929b1c20800000000000000
+      internalID: 3178295142518982538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_58
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1414
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4fd168967c1f9f0800000000000000
+      internalID: -436348432842623754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1414
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35da17681f37c500800000000000000
+      internalID: 416370864596636989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1414
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f84f02ec01039f0800000000000000
+      internalID: -490873881881178260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1414
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de1b9557b238360800000000000000
+      internalID: 7170622814719962431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_62
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1413
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5426f1f9c441062d0800000000000000
+      internalID: -3287605408660757947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1413
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e877dac1c52a0030800000000000000
+      internalID: 3461620777849682146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_64
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1412
+        width: 106
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa3606f63489bad0800000000000000
+      internalID: -2685970331159086424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_65
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1413
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0958d8b2a73dfa980800000000000000
+      internalID: -8525363047918893680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_66
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1413
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f538bb42bef00850800000000000000
+      internalID: 6341348317065655798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_67
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1412
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaff73d09863ddde0800000000000000
+      internalID: -1306828354607382610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1285
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8ac2d133d75df40800000000000000
+      internalID: 5752641757521946798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_69
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1284
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d887885b588340800000000000000
+      internalID: 4866239833162961085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_70
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1285
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9815119793210250800000000000000
+      internalID: 5909043319967914139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_71
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1285
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7f8b3583f4dace0800000000000000
+      internalID: -1392369606446221368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_72
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1284
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31053dad31f0a6f60800000000000000
+      internalID: 8028245863691407379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_73
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1285
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c986d4202f3510800000000000000
+      internalID: 1530977740919523582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_74
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1285
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354d5d3d13f04f7f0800000000000000
+      internalID: -579821745342131117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_75
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1284
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0877438503c224e0800000000000000
+      internalID: -2007828055409068022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_76
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1283
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab84315328316440800000000000000
+      internalID: 4927281191657442217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_77
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1285
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f99f0a17f5c62c0800000000000000
+      internalID: -4437066591230124213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_78
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1282
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aab5d32e21f9d700800000000000000
+      internalID: 565748408683707043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_79
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1284
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12fe299e8682fe60800000000000000
+      internalID: 7994600235549520414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_80
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1281
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429791c0f5254ac40800000000000000
+      internalID: 5522629611241437476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1158
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f74cf12ea8f1730800000000000000
+      internalID: 3972046100164280083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_82
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1155
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11a3f5e71421be00800000000000000
+      internalID: 1058667072469573915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1153
+        width: 90
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f4f4c93f703d650800000000000000
+      internalID: 6256353050228641546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1158
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a20b99fabe7a5680800000000000000
+      internalID: -8765554383206546781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_85
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1155
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4077563ee30e09920800000000000000
+      internalID: 2995140312909051652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_86
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1153
+        width: 90
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610f3193a6566db20800000000000000
+      internalID: 3158823695545528342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_87
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1157
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6604bba56f70b8eb0800000000000000
+      internalID: -4716667430074892186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_88
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1156
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cd8504ddbcc8140800000000000000
+      internalID: 4723374260332584079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_89
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1156
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45058140604ac65a0800000000000000
+      internalID: -6526661414221229996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_90
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1158
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87600b384fcda5730800000000000000
+      internalID: 3988743362729477752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_91
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1157
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d6a0ee938e9150800000000000000
+      internalID: 5881282881789547920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_92
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1156
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9003d158978ebc40800000000000000
+      internalID: 5530006480735109279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_93
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1037
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2cdcd3ba6efc220800000000000000
+      internalID: 2508477140619346676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_94
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1037
+        width: 89
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8214a6c9b8e86ba00800000000000000
+      internalID: 771961116416426280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_95
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1027
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06449d8245623bd60800000000000000
+      internalID: 7904703913869788256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_96
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1024
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5999f193515954f60800000000000000
+      internalID: 8017978629988260245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1036
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec12c20ca0a79880800000000000000
+      internalID: -8604231902426948379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_98
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1037
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99331e7e26120240800000000000000
+      internalID: 4756388545396160925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_99
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1035
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdfa0c4b5774f3a0800000000000000
+      internalID: -6632545117208379910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_100
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1027
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a86c663012ef6f20800000000000000
+      internalID: 3418199201457924261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_101
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1024
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e4d759995f97e30800000000000000
+      internalID: 4501899342520340021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_102
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1036
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c94ca8d4306e380800000000000000
+      internalID: -8942456378522035162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_103
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1035
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e63bbcbf3b23db0800000000000000
+      internalID: -4813587157669941687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_104
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1024
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c1a140913b8c590800000000000000
+      internalID: -7653670646691783526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_105
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1024
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830afa0c5fa6d8420800000000000000
+      internalID: 2633878960813875256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_106
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1024
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fe56ed842544240800000000000000
+      internalID: 4775031977841913718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_107
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1035
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade2577c2c9e6e950800000000000000
+      internalID: 6478122136798310106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d7e8f4ef35f0f0800000000000000
+      internalID: -1083889882651699866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_109
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 902
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5911e8156eefec70800000000000000
+      internalID: 9002676298113423707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 902
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305773f6fd6dbd50800000000000000
+      internalID: 6754675923539677244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 902
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea26565b2b3c196d0800000000000000
+      internalID: -2985389905655012690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 902
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e07db6c0bfb0c10800000000000000
+      internalID: 2020984888573234720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_113
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 902
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe7232aa7fd02300800000000000000
+      internalID: 225425699168747250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_114
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 902
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba7579a2723fbb50800000000000000
+      internalID: 6611058246053886644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_115
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 903
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd503eff07605860800000000000000
+      internalID: 7516621096468110795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_116
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 903
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1618741dec13b31e0800000000000000
+      internalID: -2217123627205688991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_117
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 903
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc55319c92cac0340800000000000000
+      internalID: 4831425795728823759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_118
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 903
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f347032a1bc49b0800000000000000
+      internalID: -5094501768307130538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_119
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 903
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19485eadd1bd8f560800000000000000
+      internalID: 7347863713327973521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_120
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 903
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d76d7c51b81cbd40800000000000000
+      internalID: 5601379186582054869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_121
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 903
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872c1dd1fc480c8f0800000000000000
+      internalID: -522271531681594760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_122
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 903
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d65209c8857f70800000000000000
+      internalID: 9184397412001043855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_123
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 774
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce3995048d3e0f10800000000000000
+      internalID: 2237793702088621764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_124
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 768
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5303a8a86aa3c4790800000000000000
+      internalID: -7544590788789129163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_125
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 768
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1203eb30bdc61ed00800000000000000
+      internalID: 1000200280169394209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_126
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 768
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2beb84ddd3c99ba0800000000000000
+      internalID: -6081614464266015954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_127
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 880
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bf0a4d14f992310800000000000000
+      internalID: 1380809865854778181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_128
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 768
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711bdd54abad36e40800000000000000
+      internalID: 5648598851223662871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_129
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 768
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a75d9ebadf216d0800000000000000
+      internalID: -3021073485207864823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_130
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 768
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d9ce5a044831e00800000000000000
+      internalID: 1014299754285014313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_131
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 768
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3748b996e6e101c30800000000000000
+      internalID: 4327992701470082163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_132
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f494f5c9343e9310800000000000000
+      internalID: 1413624755779835128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_133
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 768
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5a06edeb7b77d80800000000000000
+      internalID: -8252925761730599452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_134
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 768
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d572b5d6453b38c70800000000000000
+      internalID: 8972212057845475165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_135
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 768
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27cfd7ce098fef40800000000000000
+      internalID: 5759973145006032687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_136
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 768
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fbfa9f0b5239460800000000000000
+      internalID: 7247177667402776430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_137
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 768
+        width: 54
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6eb2cc29bc70940800000000000000
+      internalID: 5262398520956806840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_138
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 772
+        width: 54
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8473036813c917fe0800000000000000
+      internalID: -1193000689757833400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_139
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 771
+        width: 54
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef306d3454a5a7260800000000000000
+      internalID: 7096083416412980222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 645
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496dac7b2d647f9c0800000000000000
+      internalID: -3893565481997904236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_141
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 643
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45997181a1c809a10800000000000000
+      internalID: 1914183885333698900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_142
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 642
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a149b760e11c67ad0800000000000000
+      internalID: -2704762191487462374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_143
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 643
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da1fda6982890100800000000000000
+      internalID: 74734395543460568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_144
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 643
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdd8bbf83fd13e00800000000000000
+      internalID: 1022844026224172542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_145
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 643
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e784f56e505a5e0800000000000000
+      internalID: -1899105180867592680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_146
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 643
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188446031c170ede0800000000000000
+      internalID: -1305918817382938495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_147
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 643
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a5feaca318cfa0800000000000000
+      internalID: -5780348489339395885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_148
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 643
+        width: 113
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb04d28ce67ba5d0800000000000000
+      internalID: -3050213564434084924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_149
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 643
+        width: 114
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28d61f979e7fa9f0800000000000000
+      internalID: -455005847666894806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_150
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 643
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c220a16847722a4f0800000000000000
+      internalID: -819048800808467924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_151
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 643
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a0e1c67d8b3c5d0800000000000000
+      internalID: -3043385687800935913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_152
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 643
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafeea3eafd802c80800000000000000
+      internalID: -8349517600443666515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_153
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 642
+        width: 126
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6acdf73420ccfb70800000000000000
+      internalID: 8934227022586956399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_154
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 643
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58be9d879894e90800000000000000
+      internalID: -7040945390271887925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_155
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 643
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2804403e8fda9b0800000000000000
+      internalID: -5067120351809338628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_156
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 523
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b76ccd6d331c1070800000000000000
+      internalID: 8078352986151872436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_157
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 517
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e779174494cba350800000000000000
+      internalID: 6029128667292596195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_158
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 504
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa1d3abf90746620800000000000000
+      internalID: 2766459902439004836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_159
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 515
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12175262097129b70800000000000000
+      internalID: 8904205321147609377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_160
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 517
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc96626e1c517940800000000000000
+      internalID: 5292112322706709683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_161
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 514
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83196153225314d10800000000000000
+      internalID: 2108024521621934392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_162
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 513
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545815b3500fa1130800000000000000
+      internalID: 3538404362513646917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_163
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 514
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2069abe06929962b0800000000000000
+      internalID: -5590776289213901310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_164
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 630
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4efe54dac752920800000000000000
+      internalID: 2964913013337875682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_165
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 517
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2f56fb3fe4e3b20800000000000000
+      internalID: 3116014800982110965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_166
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 511
+        width: 121
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0dc54bf44a3d740800000000000000
+      internalID: 5175661059014185167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_167
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 526
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21deed2709e29850800000000000000
+      internalID: 6382419838982082860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_168
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 384
+        width: 25
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea59728b5fb10bb0800000000000000
+      internalID: -4971482113888396563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_169
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 432
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9c4fe4fba025930800000000000000
+      internalID: 4130375625031862704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_170
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 416
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f7bac11ecd2a80800000000000000
+      internalID: -8489903146712698221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_171
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 400
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0eba85217c441e0800000000000000
+      internalID: -2214426235148443475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_172
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 385
+        width: 67
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f863556c69e3210800000000000000
+      internalID: 1314653919816093475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_173
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 388
+        width: 32
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0013747a40d43a160800000000000000
+      internalID: 7035551725264515328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_174
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 388
+        width: 28
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b7508ee5818590800000000000000
+      internalID: -7673705030660672359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_175
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 416
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca54ae4d7809b8ab0800000000000000
+      internalID: -5004747647825066580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_176
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 444
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2197cb3ee158bbf20800000000000000
+      internalID: 3439489108143798546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_177
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 470
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5813babd06870f3f0800000000000000
+      internalID: -869062370684882555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_178
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 393
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca689da0fc85e3f0800000000000000
+      internalID: -872135987493836090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_179
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 417
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3068735e0dc73310800000000000000
+      internalID: 1384800871853350975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_180
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 404
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885bcf5fb74a88ca0800000000000000
+      internalID: -6014376450038385272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_181
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 439
+        width: 121
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af48dd57b87eb1ec0800000000000000
+      internalID: -3595025291361286918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_182
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 429
+        width: 119
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c908681d1676e24c0800000000000000
+      internalID: -4310394123522244452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_183
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 439
+        width: 123
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0cb361bc2e79a50800000000000000
+      internalID: 6527935546776076505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_184
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 300
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc1494018d03d030800000000000000
+      internalID: 3518170581685247176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_185
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 307
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50510cda9d61506a0800000000000000
+      internalID: -6483750964351199995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_186
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 300
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65a4b56d3ca038d0800000000000000
+      internalID: -2868603582935685781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_187
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 309
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217850e5a3b997270800000000000000
+      internalID: 8248794867493603090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_188
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 297
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e5f09fd62c26530800000000000000
+      internalID: 3846850809313582667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_189
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 310
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04ca61a036afa00800000000000000
+      internalID: 791053579538153704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_190
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 295
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc79777305b4f3c0800000000000000
+      internalID: -4326634315502224202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_191
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 311
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c2660054b2fb30800000000000000
+      internalID: 4319713248399247805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_192
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 295
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2861c03aa7ebdbb90800000000000000
+      internalID: -7224408793301641598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_193
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 310
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c592c67d71787510800000000000000
+      internalID: 1547111255679079875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_194
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 296
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d5f41bcf477b10800000000000000
+      internalID: 1979138294901232934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_195
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 305
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7354018c286f6f1b0800000000000000
+      internalID: -5623036043162794697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_196
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 292
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c76b85af5eff6a0800000000000000
+      internalID: -6413154480959357899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_197
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 306
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04de83d816626ac0800000000000000
+      internalID: -3863413273515863026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_198
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 294
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ef3b9c43591a120800000000000000
+      internalID: 2423382128456892041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_199
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 301
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e22ac9f660f44c0800000000000000
+      internalID: -4301212042676523386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_200
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 295
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502f741d253e0bc40800000000000000
+      internalID: 5526166687621575173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_201
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 300
+        width: 35
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c088ca45b9ff7f80800000000000000
+      internalID: -8106486247204552511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_202
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 296
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f437bd07d723a8cd0800000000000000
+      internalID: -2555174324233604273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_203
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 300
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5425f4fefe241deb0800000000000000
+      internalID: -4696899338091146683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_204
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 295
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d69ef662c7d5dcb0800000000000000
+      internalID: -4839724994588141871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_205
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 292
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffa058aa4efc47e0800000000000000
+      internalID: -1779768156113293325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_206
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c943d51cfe94810800000000000000
+      internalID: 1750193543981603961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_207
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 134
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d72d290bc4d16320800000000000000
+      internalID: 2549552832565815253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_208
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 134
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada305c6be04060f0800000000000000
+      internalID: -1125828526963934502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_209
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 134
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d7b9a1f9b75f6b0800000000000000
+      internalID: -5263164666236142305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_210
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 134
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d7f9a55b519ba0800000000000000
+      internalID: -6083981198118891114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_211
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 134
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885f741b966629990800000000000000
+      internalID: -7380724235174939256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_212
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 134
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e541be56c58de4a0800000000000000
+      internalID: -6562441994970249751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_213
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 134
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7335d4076027b6760800000000000000
+      internalID: 7452175380394103607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 178483a489193b541a13f1f50e9fda19
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      person_0: 6861894420282137670
+      person_1: -7592463368050987717
+      person_10: -2979782634355514491
+      person_100: 3418199201457924261
+      person_101: 4501899342520340021
+      person_102: -8942456378522035162
+      person_103: -4813587157669941687
+      person_104: -7653670646691783526
+      person_105: 2633878960813875256
+      person_106: 4775031977841913718
+      person_107: 6478122136798310106
+      person_108: -1083889882651699866
+      person_109: 9002676298113423707
+      person_11: 7819878817054457122
+      person_110: 6754675923539677244
+      person_111: -2985389905655012690
+      person_112: 2020984888573234720
+      person_113: 225425699168747250
+      person_114: 6611058246053886644
+      person_115: 7516621096468110795
+      person_116: -2217123627205688991
+      person_117: 4831425795728823759
+      person_118: -5094501768307130538
+      person_119: 7347863713327973521
+      person_12: -673730042160572644
+      person_120: 5601379186582054869
+      person_121: -522271531681594760
+      person_122: 9184397412001043855
+      person_123: 2237793702088621764
+      person_124: -7544590788789129163
+      person_125: 1000200280169394209
+      person_126: -6081614464266015954
+      person_127: 1380809865854778181
+      person_128: 5648598851223662871
+      person_129: -3021073485207864823
+      person_13: -7248785658279930955
+      person_130: 1014299754285014313
+      person_131: 4327992701470082163
+      person_132: 1413624755779835128
+      person_133: -8252925761730599452
+      person_134: 8972212057845475165
+      person_135: 5759973145006032687
+      person_136: 7247177667402776430
+      person_137: 5262398520956806840
+      person_138: -1193000689757833400
+      person_139: 7096083416412980222
+      person_14: 1337698111788429637
+      person_140: -3893565481997904236
+      person_141: 1914183885333698900
+      person_142: -2704762191487462374
+      person_143: 74734395543460568
+      person_144: 1022844026224172542
+      person_145: -1899105180867592680
+      person_146: -1305918817382938495
+      person_147: -5780348489339395885
+      person_148: -3050213564434084924
+      person_149: -455005847666894806
+      person_15: -4236523033704946086
+      person_150: -819048800808467924
+      person_151: -3043385687800935913
+      person_152: -8349517600443666515
+      person_153: 8934227022586956399
+      person_154: -7040945390271887925
+      person_155: -5067120351809338628
+      person_156: 8078352986151872436
+      person_157: 6029128667292596195
+      person_158: 2766459902439004836
+      person_159: 8904205321147609377
+      person_16: -3331981649216993435
+      person_160: 5292112322706709683
+      person_161: 2108024521621934392
+      person_162: 3538404362513646917
+      person_163: -5590776289213901310
+      person_164: 2964913013337875682
+      person_165: 3116014800982110965
+      person_166: 5175661059014185167
+      person_167: 6382419838982082860
+      person_168: -4971482113888396563
+      person_169: 4130375625031862704
+      person_17: 5249256209890806234
+      person_170: -8489903146712698221
+      person_171: -2214426235148443475
+      person_172: 1314653919816093475
+      person_173: 7035551725264515328
+      person_174: -7673705030660672359
+      person_175: -5004747647825066580
+      person_176: 3439489108143798546
+      person_177: -869062370684882555
+      person_178: -872135987493836090
+      person_179: 1384800871853350975
+      person_18: -4633781123619581613
+      person_180: -6014376450038385272
+      person_181: -3595025291361286918
+      person_182: -4310394123522244452
+      person_183: 6527935546776076505
+      person_184: 3518170581685247176
+      person_185: -6483750964351199995
+      person_186: -2868603582935685781
+      person_187: 8248794867493603090
+      person_188: 3846850809313582667
+      person_189: 791053579538153704
+      person_19: -7812601732612612396
+      person_190: -4326634315502224202
+      person_191: 4319713248399247805
+      person_192: -7224408793301641598
+      person_193: 1547111255679079875
+      person_194: 1979138294901232934
+      person_195: -5623036043162794697
+      person_196: -6413154480959357899
+      person_197: -3863413273515863026
+      person_198: 2423382128456892041
+      person_199: -4301212042676523386
+      person_2: -1918943386427310983
+      person_20: -3016416768018190000
+      person_200: 5526166687621575173
+      person_201: -8106486247204552511
+      person_202: -2555174324233604273
+      person_203: -4696899338091146683
+      person_204: -4839724994588141871
+      person_205: -1779768156113293325
+      person_206: 1750193543981603961
+      person_207: 2549552832565815253
+      person_208: -1125828526963934502
+      person_209: -5263164666236142305
+      person_21: -1215558999585740207
+      person_210: -6083981198118891114
+      person_211: -7380724235174939256
+      person_212: -6562441994970249751
+      person_213: 7452175380394103607
+      person_22: 4002587689509858012
+      person_23: -2338370450692191238
+      person_24: 7581237749316257717
+      person_25: 2451359998739933500
+      person_26: -5876958948384708235
+      person_27: -5250621442065188113
+      person_28: 1472894617208971096
+      person_29: -5658689075536217638
+      person_3: 6557288073542464520
+      person_30: 8046711971997570425
+      person_31: -2966919780874583608
+      person_32: -8423240783800227255
+      person_33: 192764345077458033
+      person_34: 1257504199939644717
+      person_35: -3819599628298098580
+      person_36: -1473833584222803690
+      person_37: -5193520977077360190
+      person_38: 7252588268115442153
+      person_39: -6911647590020174610
+      person_4: -8863321754108521893
+      person_40: 1900086587308176125
+      person_41: -1210282708617833055
+      person_42: 5854293319715527949
+      person_43: 8937583836998084907
+      person_44: 7360535624850142406
+      person_45: -6827772192189178853
+      person_46: -4780052111419894853
+      person_47: -2038282731833962603
+      person_48: -2801967038125507248
+      person_49: 2902041938359060710
+      person_5: 5871441334544041340
+      person_50: -8527031453143289951
+      person_51: 408904214480404013
+      person_52: -7852388276279909599
+      person_53: 7446938296563106947
+      person_54: -1190948250088694017
+      person_55: 797884482593900675
+      person_56: -4105029157018446656
+      person_57: 3178295142518982538
+      person_58: -436348432842623754
+      person_59: 416370864596636989
+      person_6: -1723351912873679875
+      person_60: -490873881881178260
+      person_61: 7170622814719962431
+      person_62: -3287605408660757947
+      person_63: 3461620777849682146
+      person_64: -2685970331159086424
+      person_65: -8525363047918893680
+      person_66: 6341348317065655798
+      person_67: -1306828354607382610
+      person_68: 5752641757521946798
+      person_69: 4866239833162961085
+      person_7: 286518434546666578
+      person_70: 5909043319967914139
+      person_71: -1392369606446221368
+      person_72: 8028245863691407379
+      person_73: 1530977740919523582
+      person_74: -579821745342131117
+      person_75: -2007828055409068022
+      person_76: 4927281191657442217
+      person_77: -4437066591230124213
+      person_78: 565748408683707043
+      person_79: 7994600235549520414
+      person_8: -165335670386187087
+      person_80: 5522629611241437476
+      person_81: 3972046100164280083
+      person_82: 1058667072469573915
+      person_83: 6256353050228641546
+      person_84: -8765554383206546781
+      person_85: 2995140312909051652
+      person_86: 3158823695545528342
+      person_87: -4716667430074892186
+      person_88: 4723374260332584079
+      person_89: -6526661414221229996
+      person_9: 6962579781589173454
+      person_90: 3988743362729477752
+      person_91: 5881282881789547920
+      person_92: 5530006480735109279
+      person_93: 2508477140619346676
+      person_94: 771961116416426280
+      person_95: 7904703913869788256
+      person_96: 8017978629988260245
+      person_97: -8604231902426948379
+      person_98: 4756388545396160925
+      person_99: -6632545117208379910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
